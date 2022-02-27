@@ -10,7 +10,7 @@
 
 - GDSC(Google Developers Student Club) Ewha Member (2021.09 ~ present)
 - [Undergraduate Researcher] Ewha W. Univ. `Ewha BioRobotics Laboratory (E-BRL)` (2021.12 ~ present)
-
+- EURON(Ewha AI/Data Analysis Club) Computer Vision (2022.03 ~ present)
 ---
 
 ### 💪 Available
