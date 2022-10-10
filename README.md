@@ -11,7 +11,7 @@
 - `GDSC`(Google Developers Student Club) Ewha 
    - Member (2021.09 ~ 2022.07)
    - Lead (2022.08 ~ present)
-- [Undergraduate Researcher] Ewha W. Univ. `Ewha BioRobotics Laboratory (E-BRL)` (2022.01 ~ 2022.08)
+- [Undergraduate Researcher] Ewha W. Univ. `Ewha BioRobotics Laboratory (E-BRL)` (2022.01 ~)
 - `EURON`(Ewha AI/Data Analysis Club) Computer Vision (2022.03 ~ 2022.08)
 ---
 
