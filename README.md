@@ -2,7 +2,7 @@
 
 🤸‍♀️ I'm studying `CSE`(Computer Science and Engineering).
 
-🌱 I’m currently learning `Machine Learning` and `Computer Vision`.
+🌱 I’m currently learning `Machine Learning`, `Computer Vision` and `Autonomous Vehicles`.
 
 ---
 
