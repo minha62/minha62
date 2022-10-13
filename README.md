@@ -1,6 +1,6 @@
 ## Hi there👋 I'm Sumin🤗
 
-🤸‍♀️ I'm studying `CSE`(Computer Science and Engineering).
+🤸‍♀️ I'm studying `CSE`(Computer Science and Engineering) at Ewha Womans University.
 
 🌱 I’m currently learning `Machine Learning`, `Computer Vision` and `Autonomous Vehicles`.
 
