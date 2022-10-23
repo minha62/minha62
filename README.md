@@ -30,7 +30,7 @@
 
 ### 📫 Contacts
 
-<a href="minha62@gmain.com" target="_blank"><img src="https://img.shields.io/badge/minha62@ewhain.net-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <a href="https://velog.io/@bbirong" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/> <a href="https://bbirong-cse.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FFCA28?style=flat-square"/>
+<a href="minha62@gmain.com" target="_blank"><img src="https://img.shields.io/badge/minha62@ewhain.net-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <a href="https://velog.io/@bbirong" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
 
 <!--
 **minha62/minha62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
