@@ -1,4 +1,4 @@
-## Hi there👋 I'm Sumin🤗
+## Hi there👋 I'm Sumin Ha🤗
 
 🤸‍♀️ I'm studying `CSE`(Computer Science and Engineering) at Ewha Womans University.
 
