@@ -13,7 +13,7 @@
    - Lead (2022.08 ~ present)
 - [Undergraduate Researcher] Ewha W. Univ. `Ewha BioRobotics Laboratory (E-BRL)` (2022.01 ~ present)
 - `EURON`(Ewha AI/Data Analysis Club) Computer Vision (2022.03 ~ 2022.08)
-- `ICT Internship` (2022.09 ~ present)
+- `ICT Internship` (2022.09 ~ 2022.12)
 ---
 
 ### 💪 Available
