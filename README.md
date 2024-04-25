@@ -1,3 +1,4 @@
+<!--
 ## Hi there👋 I'm Sumin Ha🤗
 
 🤸‍♀️ I'm studying `CSE`(Computer Science and Engineering) at Ewha Womans University.
@@ -32,7 +33,7 @@
 
 <a href="minha62@gmain.com" target="_blank"><img src="https://img.shields.io/badge/minha62@ewhain.net-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <a href="https://velog.io/@bbirong" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
 
-<!--
+
 **minha62/minha62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
